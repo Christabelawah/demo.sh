@@ -4,4 +4,7 @@ else
 echo "Failed"
 Simon
 Sisis
+Great
+Light
+Spark
 
